@@ -1,0 +1,14 @@
+cffi==2.1.1
+future==1.0.0
+glfw==2.10.2
+iniconfig==2.3.1
+kociemba==1.2.1
+numpy==2.5.3
+opencv-python==5.0.0.93
+packaging==26.3
+pillow==12.3.0
+pluggy==1.6.0
+pycparser==3.1
+Pygments==2.21.0
+PyOpenGL==3.1.10
+pytest==9.1.1

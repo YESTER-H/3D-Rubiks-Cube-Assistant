@@ -1,0 +1,6 @@
+numpy>=1.24,<3
+opencv-python>=4.8,<6
+Pillow>=10,<13
+glfw>=2.6,<3
+PyOpenGL>=3.1.7,<4
+kociemba==1.2.1

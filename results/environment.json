@@ -1,0 +1,22 @@
+{
+  "timestamp_utc": "2026-10-08T13:05:56.630528+00:00",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "python": "3.12.14",
+  "seed": 20261008,
+  "repeats": 3,
+  "legal_samples": 20,
+  "packages": {
+    "numpy": "2.5.3",
+    "opencv-python": "5.0.0.93",
+    "Pillow": "12.3.0",
+    "glfw": "2.10.2",
+    "PyOpenGL": "3.1.10",
+    "kociemba": "1.2.1",
+    "pytest": "9.1.1"
+  },
+  "limitations": [
+    "Synthetic states; no webcam accuracy or GUI timing.",
+    "Without-early-filter counts are a calculated baseline, not measured runtime.",
+    "Recovery of a valid candidate need not uniquely recover the photographed cube."
+  ]
+}
